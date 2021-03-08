@@ -43,8 +43,8 @@ social:
     url: http://twitter.com/jekyllrb
   - title: facebook
     url: https://www.facebook.com/profile.php?id=100008799068390
-  - title: hackrrank
-    url: https://www.hackerrank.com/pchiradeep
+  #- title: hackrrank
+  #  url: https://www.hackerrank.com/pchiradeep
   - title: linkedin
     url: https://www.linkedin.com/in/chiradeepp26883b1bb/
   - title: github
