@@ -1,11 +1,11 @@
 ---
-layout: rss Website
-modal-id: 3
+layout: Web App
+modal-id: 2
 date: 2020-04-3
 img: circus.png
 alt: image-alt
 project-date: April 2020
-client: Start Bootstrap
+client: None
 category: Web Development
 description: This website shows RSS(Really Simple Syndication) from CNN and displays it in a specific format(Date, Author, Image, Text)
 ---
