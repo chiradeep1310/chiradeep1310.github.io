@@ -4,7 +4,7 @@ modal-id: 5
 date: 2021-02-14
 img: safe.png
 alt: image-alt
-project-date: February 2014
+project-date: February 2021
 client: None
 category: Computer vision
 description: Use Deep learning models and Image processing to process terrain video to letters on the screen
